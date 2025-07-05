@@ -6,7 +6,7 @@ import InfoscontactFramerComponent from './framer/infoscontact';
 import FormulairecontactFramerComponent from './framer/Formulairecontact';
 import FooterFramerComponent from './framer/footer';
 import SocialBubble from './SocialBubble';
-import { ContactUs } from './formulaireContact';
+import { ContactUs } from './FormulaireContact';
 
 export default function App() {
   return (
