@@ -1,6 +1,6 @@
 import './framer/styles.css';
 import NavFramerComponent from './framer/nav';
-import ErreurFramerComponent from './framer/Erreur';
+import ErreurFramerComponent from './framer/erreur';
 import FooterFramerComponent from './framer/footer';
 import SocialBubble from './SocialBubble';
 
